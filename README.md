@@ -1,14 +1,13 @@
 ## Hi there 👋
 
-# Merhaba, ben Okan Kaycı!
+# Merhaba, ben Okan!
 
-Ben bir [mesleğin] olarak [ilgi alanların/teknolojiler] ile ilgileniyorum.
+Ben bir sağlık kuruluşunda Hemşire olarak çalışmaktayım. Bilgisayar ve güncel teknolojilere hep ilgi duymuşumdur yaklaşık bir yıldır yazılım alanında kendimi geliştiriyorum.
 
 ## 🚀 Hakkımda
-- 🔭 Şu anda [proje adı veya çalışma konun] üzerine çalışıyorum.
-- 🌱 Şu anda [öğrendiğin teknoloji] öğreniyorum.
-- 💬 Bana [konu] hakkında soru sorabilirsiniz.
-- 📫 İletişim: [e-posta veya LinkedIn]
+- 🔭 Şu anda Flutter ile geliştirdiğim Vardiya Takip uygulaması üzerinde çalışıyorum.
+- 🌱 Şu anda Flutter ve Swift öğreniyorum.
+- 📫 İletişim: 
 
 ## 🛠️ Kullandığım Teknolojiler
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
@@ -19,4 +18,4 @@ Ben bir [mesleğin] olarak [ilgi alanların/teknolojiler] ile ilgileniyorum.
 ![Okan's GitHub stats](https://github-readme-stats.vercel.app/api?username=okankayci&show_icons=true&theme=radical)
 
 ## ✨ Öne Çıkan Projeler
-- [Shift Takip Uygulaması](https://github.com/okankayci/shift-app) – Flutter ile yapılmış vardiya takibi uygulaması.
+- [Vardiya Takip Uygulaması](https://github.com/okankayci/vardiya_takip) – Flutter ile yapılmış vardiya takibi uygulaması.
