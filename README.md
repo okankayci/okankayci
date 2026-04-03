@@ -9,7 +9,7 @@
 
 - 🌱 Odak alanlarım:
   - Flutter & Dart
-  - Backend (Go, Supabase)
+  - Backend (Go, Supabase, Firebase)
   - Üretkenlik
 - ⚡ Misyonum:
   - Gerçek problemleri çözen, günlük hayatı kolaylaştıran uygulamalar üretmek
@@ -138,16 +138,7 @@
 
 ---
 
-
-## 🛠️ Teknolojiler
-
-Flutter
-Dart
-Go
-Supabase
-Docker
-
----
+ 
  
 
 ## 📫 İletişim
