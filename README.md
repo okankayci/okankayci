@@ -2,11 +2,11 @@
 
 # Merhaba, ben Okan!
 
-Ben bir sağlık kuruluşunda Hemşire olarak çalışmaktayım. Bilgisayar ve güncel teknolojilere hep ilgi duymuşumdur yaklaşık bir yıldır yazılım alanında kendimi geliştiriyorum.
+Ben bir sağlık kuruluşunda Hemşire olarak çalışmaktayım. Bilgisayar ve güncel teknolojilere hep ilgi duymuşumdur yaklaşık 2 yıldır yazılım alanında kendimi geliştiriyorum.
 
 ## 🚀 Hakkımda
-- 🔭 Şu anda Flutter ile geliştirdiğim Vardiya Takip uygulaması üzerinde çalışıyorum.
-- 🌱 Şu anda Flutter ve Swift öğreniyorum.
+- 🔭 Flutter ile geliştirdiğim bir çok uygulamayı IOS ve Android platformlarında yayınladım ve aktif olarak destek sağlıyorum 
+- 🌱 
 - 📫 İletişim: 
 
 ## 🛠️ Kullandığım Teknolojiler
