@@ -13,89 +13,151 @@
   - Backend (Go, Supabase)
   - Üretkenlik & otomasyon araçları
 - ⚡ Misyonum:
-  - Günlük hayatı kolaylaştıran, gerçek problem çözen uygulamalar üretmek
+  - Gerçek problemleri çözen, günlük hayatı kolaylaştıran uygulamalar üretmek
 
 ---
 
 ## 📦 Projelerim
 
-### 🧠 ShiftLabs
+### 🧠 ShiftLabs  
 🟢 Aktif  
-> Vardiyalı çalışma düzeninizi planlayın, paylaşın ve sosyal hayatınızı organize edin.
+> Vardiyalı çalışma düzeninizi kolayca planlayın, paylaşın ve sosyal hayatınızı organize edin.
+
+- 📅 Akıllı vardiya planlama  
+- 👥 Arkadaşlarla paylaşım & senkronizasyon  
+- 📊 Çalışma düzeni analizi  
+- 🔔 Hatırlatmalar & bildirimler  
 
 ---
 
-### 👶 BabyPlus
+### 👶 BabyPlus  
 🟢 Aktif  
-> Bebeğinizin gelişimini takip edin ve özel anları kaydedin.
+> Bebeğinizin gelişimini takip edin ve ebeveynlik sürecini kolaylaştırın.
+
+- 📈 Gelişim takibi  
+- 📝 Özel anıları kaydetme  
+- 💡 Ebeveynlik ipuçları  
+- 📅 Günlük / haftalık takip sistemi  
 
 ---
 
-### 🎓 StudyGo
+### 🎓 StudyGo  
 🟢 Aktif  
-> Ders programı, görev yönetimi ve odaklanma araçlarıyla okul hayatınızı düzenleyin.
+> Okul hayatınızı organize eden hepsi bir arada sistem.
+
+- 📚 Ders programı oluşturma  
+- 📝 Görev & sınav takibi  
+- ⏱️ Pomodoro odak sistemi  
+- 🧠 Not alma & planlama  
+- 📊 Çalışma verimliliği analizi  
 
 ---
 
-### 🏥 Sakura
+### 🏥 Sakura  
 🟢 Aktif  
-> Hastane çalışanları için özel vardiya yönetim sistemi.
+> Hastane çalışanları için özel tasarlanmış vardiya yönetim uygulaması.
+
+- 🏥 Kurum bazlı vardiya sistemi  
+- 📅 Detaylı vardiya takibi  
+- 👥 Ekip koordinasyonu  
+- 🔒 Güvenli kullanım  
 
 ---
 
-### 🧰 JsonTools
+### 🧰 JsonTools  
 🟢 Aktif  
-> JSON formatlama, doğrulama ve dönüşüm araçları.
+> JSON verileriyle çalışan geliştiriciler için hızlı ve pratik araçlar.
+
+- 🔍 Pretty print (formatlama)  
+- ✅ JSON doğrulama  
+- 🔄 JSON dönüşümleri  
+- 📋 Tek tık kopyalama  
 
 ---
 
-### 🌍 LinguaGo
+### 🌍 LinguaGo  
 🟢 Aktif  
-> Etkileşimli dil öğrenme uygulaması.
+> Dil öğrenmeyi eğlenceli ve sürdürülebilir hale getirir.
+
+- 🗣️ Etkileşimli öğrenme  
+- 🎯 Pratik odaklı içerik  
+- 📈 İlerleme takibi  
+- 🔁 Tekrar sistemi  
 
 ---
 
-### 🧰 Toolbox
+### 🧰 Toolbox  
 🟢 Aktif  
 > Günlük dijital ihtiyaçlar için hepsi bir arada araç seti.
 
+- ⚡ Hızlı erişim araçları  
+- 🔧 Çok amaçlı kullanım  
+- 📱 Minimal ve hızlı arayüz  
+
 ---
 
-### 🐾 Pawsy
+### 🐾 Pawsy  
 🟡 Yakında  
-> Evcil hayvanlar için sağlık ve bakım yönetimi.
+> Evcil dostlarınızın sağlık ve bakım süreçlerini yönetin.
+
+- 💉 Aşı takibi  
+- 🥗 Beslenme planı  
+- 📋 Sağlık kayıtları  
+- 🔔 Hatırlatmalar  
 
 ---
 
 ## 🧪 Beta Projeler
 
-### 📚 Appsly
+### 📚 Appsly  
 🟠 Beta  
-> Uygulama odaklı üretkenlik ve araç platformu.
+> Uygulama ve üretkenlik araçlarını tek platformda toplayan sistem.
+
+- 🧩 Modüler yapı  
+- ⚡ Hızlı erişim araçları  
+- 🔄 Geliştirilebilir altyapı  
 
 ---
 
-### 🕌 Namaz
+### 🕌 Namaz  
 🟠 Beta  
-> Namaz takibi ve ibadet düzeni için yardımcı uygulama.
+> Namaz takibini kolaylaştıran ve düzen oluşturan uygulama.
+
+- 🕰️ Namaz vakitleri  
+- ✅ Takip sistemi  
+- 🔔 Hatırlatmalar  
+- 📊 İbadet düzeni analizi  
 
 ---
 
-### 🎨 FunBoard
+### 🎨 FunBoard  
 🟠 Beta  
 > Eğlenceli ve yaratıcı içerik üretimi için platform.
 
----
-
-### 🚀 ProjectX
-🟠 Beta  
-> Yeni nesil deneysel proje / gizli geliştirme alanı.
+- 🎨 Serbest içerik oluşturma  
+- 🧠 Yaratıcılığı destekleyen araçlar  
+- 📱 Basit ve hızlı kullanım  
 
 ---
 
-### 📈 StockX
+### 🚀 ProjectX  
 🟠 Beta  
-> Finans ve hisse takibi üzerine geliştirme aşamasında uygulama.
+> Yeni fikirlerin test edildiği deneysel proje alanı.
+
+- 🧪 Deneysel özellikler  
+- ⚙️ Yeni teknolojilerin test edilmesi  
+- 🔄 Sürekli gelişim  
+
+---
+
+### 📈 StockX  
+🟠 Beta  
+> Finans ve hisse takibi için geliştirilmekte olan uygulama.
+
+- 📊 Hisse takibi  
+- 📈 Grafik & analiz  
+- 🔔 Fiyat bildirimleri  
+- 💼 Portföy yönetimi  
 
 ---
 
@@ -124,4 +186,4 @@ Top Langs
 
 ---
 
-⭐ Projelerimi beğendiysen destek olmayı unutma!
+⭐ Projelerimi beğendiysen destek olmayı unu
