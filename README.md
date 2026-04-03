@@ -13,80 +13,89 @@
   - Backend (Go, Supabase)
   - Üretkenlik & otomasyon araçları
 - ⚡ Misyonum:
-  - İnsanların günlük hayatını kolaylaştıran uygulamalar geliştirmek
+  - Günlük hayatı kolaylaştıran, gerçek problem çözen uygulamalar üretmek
 
 ---
 
 ## 📦 Projelerim
 
 ### 🧠 ShiftLabs
-> Vardiyalı çalışma düzeninizi kolayca planlayın, paylaşın ve sosyal hayatınızı organize edin.
-
-- 📅 Vardiya planlama
-- 👥 Arkadaşlarla paylaşım
-- 📊 Organizasyon & verimlilik
+🟢 Aktif  
+> Vardiyalı çalışma düzeninizi planlayın, paylaşın ve sosyal hayatınızı organize edin.
 
 ---
 
-### 👶 BabyPlus (Aktif)
-> Bebeğinizin gelişimini takip edin ve özel anları saklayın.
-
-- 📈 Gelişim takibi  
-- 📝 Anı kaydetme  
-- 💡 Ebeveynlik önerileri  
+### 👶 BabyPlus
+🟢 Aktif  
+> Bebeğinizin gelişimini takip edin ve özel anları kaydedin.
 
 ---
 
-### 🎓 StudyGo (Aktif)
-> Okul hayatınızı tamamen organize edin.
-
-- 📚 Ders programı  
-- 📝 Görev & sınav takibi  
-- ⏱️ Pomodoro sistemi  
-- 🧠 Notlar & çalışma planı  
+### 🎓 StudyGo
+🟢 Aktif  
+> Ders programı, görev yönetimi ve odaklanma araçlarıyla okul hayatınızı düzenleyin.
 
 ---
 
-### 🏥 Sakura (Aktif)
-> Hastane çalışanları için özel vardiya yönetimi.
-
-- 🏥 Hastane odaklı sistem  
-- 📅 Vardiya takibi  
-- ⚙️ Kurumsal kullanım  
+### 🏥 Sakura
+🟢 Aktif  
+> Hastane çalışanları için özel vardiya yönetim sistemi.
 
 ---
 
-### 🐾 Pawsy (Yakında)
-> Evcil dostlarınızın tüm sağlık ve bakım süreçlerini yönetin.
-
-- 💉 Aşı takibi  
-- 🥗 Beslenme planı  
-- 📋 Sağlık kayıtları  
+### 🧰 JsonTools
+🟢 Aktif  
+> JSON formatlama, doğrulama ve dönüşüm araçları.
 
 ---
 
-### 🧰 JsonTools (Aktif)
-> JSON verileri için hızlı ve güvenli araçlar.
-
-- 🔍 Formatlama  
-- ✅ Doğrulama  
-- 🔄 Dönüştürme  
+### 🌍 LinguaGo
+🟢 Aktif  
+> Etkileşimli dil öğrenme uygulaması.
 
 ---
 
-### 🌍 LinguaGo (Aktif)
-> Dil öğrenmeyi eğlenceli ve etkileşimli hale getirir.
-
-- 🗣️ Pratik odaklı öğrenme  
-- 🎯 Etkileşimli içerikler  
-
----
-
-### 🧰 Toolbox (Aktif)
+### 🧰 Toolbox
+🟢 Aktif  
 > Günlük dijital ihtiyaçlar için hepsi bir arada araç seti.
 
-- ⚡ Hızlı erişim araçları  
-- 🛠️ Çok amaçlı kullanım  
+---
+
+### 🐾 Pawsy
+🟡 Yakında  
+> Evcil hayvanlar için sağlık ve bakım yönetimi.
+
+---
+
+## 🧪 Beta Projeler
+
+### 📚 Appsly
+🟠 Beta  
+> Uygulama odaklı üretkenlik ve araç platformu.
+
+---
+
+### 🕌 Namaz
+🟠 Beta  
+> Namaz takibi ve ibadet düzeni için yardımcı uygulama.
+
+---
+
+### 🎨 FunBoard
+🟠 Beta  
+> Eğlenceli ve yaratıcı içerik üretimi için platform.
+
+---
+
+### 🚀 ProjectX
+🟠 Beta  
+> Yeni nesil deneysel proje / gizli geliştirme alanı.
+
+---
+
+### 📈 StockX
+🟠 Beta  
+> Finans ve hisse takibi üzerine geliştirme aşamasında uygulama.
 
 ---
 
@@ -115,4 +124,4 @@ Top Langs
 
 ---
 
-⭐ Eğer projelerimi beğendiysen destek olmayı unu
+⭐ Projelerimi beğendiysen destek olmayı unutma!
