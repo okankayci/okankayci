@@ -148,20 +148,13 @@ Supabase
 Docker
 
 ---
-
-## 📊 GitHub İstatistiklerim
-
-Stats
-
-Top Langs
-
----
+ 
 
 ## 📫 İletişim
 
-- GitHub: https://github.com/KULLANICI_ADIN  
-- Email: mail@example.com  
+- Web: https://okankayci.github.io/
+- Email: okankayci@gmail.com
 
 ---
 
-⭐ Projelerimi beğendiysen destek olmayı unu
+⭐ Projelerimi beğendiysen destek olmayı unutma
