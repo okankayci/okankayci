@@ -1,17 +1,16 @@
 # 👋 Merhaba, ben OKAN
 
-💻 Yazılım geliştirici | 🩺 Sağlık çalışanı  
-🚀 Mobil uygulamalar, backend sistemler ve developer tools geliştiriyorum.
+💻 Yazılım  | 🩺 Hemşire  
+🚀 Bir sağlık kuruluşunda hemşire olarak çalışmaktayı, yaklaşık 2 yıldır Flutter ile mobil uygulamalar geliştiriyorum. Yenilikçi estetiğe önem veren günlük sorunlara iyi çözümler üretmeyi seven biriyim.
 
 ---
 
 ## 🚀 Hakkımda
 
-- 🔭 Şu anda: ShiftLabs üzerinde çalışıyorum  
 - 🌱 Odak alanlarım:
   - Flutter & Dart
   - Backend (Go, Supabase)
-  - Üretkenlik & otomasyon araçları
+  - Üretkenlik
 - ⚡ Misyonum:
   - Gerçek problemleri çözen, günlük hayatı kolaylaştıran uygulamalar üretmek
 
@@ -24,7 +23,7 @@
 > Vardiyalı çalışma düzeninizi kolayca planlayın, paylaşın ve sosyal hayatınızı organize edin.
 
 - 📅 Akıllı vardiya planlama  
-- 👥 Arkadaşlarla paylaşım & senkronizasyon  
+- 👥 Arkadaşlar ile paylaşım  
 - 📊 Çalışma düzeni analizi  
 - 🔔 Hatırlatmalar & bildirimler  
 
@@ -55,12 +54,11 @@
 
 ### 🏥 Sakura  
 🟢 Aktif  
-> Hastane çalışanları için özel tasarlanmış vardiya yönetim uygulaması.
+> Kurumun çalışanları için özel tasarlanmış vardiya yönetim uygulaması.
 
 - 🏥 Kurum bazlı vardiya sistemi  
 - 📅 Detaylı vardiya takibi  
-- 👥 Ekip koordinasyonu  
-- 🔒 Güvenli kullanım  
+- 👥 Ekip koordinasyonu 
 
 ---
 
@@ -71,7 +69,7 @@
 - 🔍 Pretty print (formatlama)  
 - ✅ JSON doğrulama  
 - 🔄 JSON dönüşümleri  
-- 📋 Tek tık kopyalama  
+- 📋 Mock veriler oluşturma
 
 ---
 
@@ -96,6 +94,9 @@
 
 ---
 
+
+## 🧪 Beta Projeler
+
 ### 🐾 Pawsy  
 🟡 Yakında  
 > Evcil dostlarınızın sağlık ve bakım süreçlerini yönetin.
@@ -106,16 +107,12 @@
 - 🔔 Hatırlatmalar  
 
 ---
-
-## 🧪 Beta Projeler
-
 ### 📚 Appsly  
 🟠 Beta  
-> Uygulama ve üretkenlik araçlarını tek platformda toplayan sistem.
+> Uygulamalarınızı yönetin ve kategorize edin.
 
-- 🧩 Modüler yapı  
-- ⚡ Hızlı erişim araçları  
-- 🔄 Geliştirilebilir altyapı  
+- 🧩 Özelleştirilebilir
+- ⚡ Hızlı ve pratik 
 
 ---
 
@@ -126,40 +123,21 @@
 - 🕰️ Namaz vakitleri  
 - ✅ Takip sistemi  
 - 🔔 Hatırlatmalar  
-- 📊 İbadet düzeni analizi  
+- 📊 İbadet düzeni analizi 
+- 👥 Arkadaşınızı teşvik edin  
 
----
-
-### 🎨 FunBoard  
-🟠 Beta  
-> Eğlenceli ve yaratıcı içerik üretimi için platform.
-
-- 🎨 Serbest içerik oluşturma  
-- 🧠 Yaratıcılığı destekleyen araçlar  
-- 📱 Basit ve hızlı kullanım  
 
 ---
 
 ### 🚀 ProjectX  
 🟠 Beta  
-> Yeni fikirlerin test edildiği deneysel proje alanı.
+> Projelerin için kapsamlı planlar oluştur.
 
-- 🧪 Deneysel özellikler  
-- ⚙️ Yeni teknolojilerin test edilmesi  
-- 🔄 Sürekli gelişim  
-
----
-
-### 📈 StockX  
-🟠 Beta  
-> Finans ve hisse takibi için geliştirilmekte olan uygulama.
-
-- 📊 Hisse takibi  
-- 📈 Grafik & analiz  
-- 🔔 Fiyat bildirimleri  
-- 💼 Portföy yönetimi  
+- 🧪 Kategorize edilebir planlar oluştur
+- ⚙️ Birden çok projeni ekle ve tek yerden yönet 
 
 ---
+
 
 ## 🛠️ Teknolojiler
 
