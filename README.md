@@ -98,7 +98,7 @@
 ## 🧪 Beta Projeler
 
 ### 🐾 Pawsy  
-🟡 Yakında  
+🟠 Beta  
 > Evcil dostlarınızın sağlık ve bakım süreçlerini yönetin.
 
 - 💉 Aşı takibi  
