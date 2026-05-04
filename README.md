@@ -21,6 +21,3 @@
 
 - Web: https://okankayci.github.io/
 - Email: okankayci@gmail.com
-
----
-
